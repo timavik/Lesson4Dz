@@ -1,0 +1,14 @@
+D:\csharp\Lesson4Four\Lesson4Four\bin\Debug\net9.0\Lesson4Four.exe
+D:\csharp\Lesson4Four\Lesson4Four\bin\Debug\net9.0\Lesson4Four.deps.json
+D:\csharp\Lesson4Four\Lesson4Four\bin\Debug\net9.0\Lesson4Four.runtimeconfig.json
+D:\csharp\Lesson4Four\Lesson4Four\bin\Debug\net9.0\Lesson4Four.dll
+D:\csharp\Lesson4Four\Lesson4Four\bin\Debug\net9.0\Lesson4Four.pdb
+D:\csharp\Lesson4Four\Lesson4Four\obj\Debug\net9.0\Lesson4Four.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\Lesson4Four\Lesson4Four\obj\Debug\net9.0\Lesson4Four.AssemblyInfoInputs.cache
+D:\csharp\Lesson4Four\Lesson4Four\obj\Debug\net9.0\Lesson4Four.AssemblyInfo.cs
+D:\csharp\Lesson4Four\Lesson4Four\obj\Debug\net9.0\Lesson4Four.csproj.CoreCompileInputs.cache
+D:\csharp\Lesson4Four\Lesson4Four\obj\Debug\net9.0\Lesson4Four.dll
+D:\csharp\Lesson4Four\Lesson4Four\obj\Debug\net9.0\refint\Lesson4Four.dll
+D:\csharp\Lesson4Four\Lesson4Four\obj\Debug\net9.0\Lesson4Four.pdb
+D:\csharp\Lesson4Four\Lesson4Four\obj\Debug\net9.0\Lesson4Four.genruntimeconfig.cache
+D:\csharp\Lesson4Four\Lesson4Four\obj\Debug\net9.0\ref\Lesson4Four.dll
